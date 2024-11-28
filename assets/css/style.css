@@ -28,3 +28,51 @@ h1,
 h2 {
     text-transform: uppercase;
 }
+
+
+
+/* grid visualisation CSS for testing */
+
+/* .container,
+.row {
+    border: 2px solid black;
+}
+
+.col-12 {
+    border: 2px solid white;
+    background-color: lightgray;
+} */
+
+/* Media queries */
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    /*  
+    #services .card-body {
+        min-height: 191px;
+    } */
+}
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+    /*  
+    #services .card-body {
+        min-height: auto;
+    }
+} */
+
+/* xl devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    /* 
+    #services .card-body {
+        min-height: 220px;
+    }
+} */
+
+/* xxl devices (larger desktops, 1400px and up) */
+@media screen and (min-width: 1400px) {
+    /* 
+    #services .card-body {
+        min-height: 195px;
+    }
+} */
