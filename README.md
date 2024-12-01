@@ -8,7 +8,7 @@ This project will introduce visitors to a beautiful manor farm B&B in North Wale
 
 # UX:
 
-Wern-Fawr-B&B Project Board and wireframes.
+Wern-Fawr-B&B wireframes.
 
 ![phone size wireframes](./assets/images/readme/phone_size.webp)
 
