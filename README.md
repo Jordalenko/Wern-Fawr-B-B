@@ -87,7 +87,7 @@ A series of clickable cards containing a carousel of images and static text with
 
 ### Booking Form
 
-If navigated from the front page the property selector atop the form is set to default <select>. If navigated from the book now button for a specific Cottage or room that selection is displayed. When the date range of the visit is entered prices for the stay with cost details itemized for review. Once the booking is submitted a success page is triggered.
+If navigated from the front page the property selector atop the form is set to default. If navigated from the book now button for a specific Cottage or room that selection is displayed. When the date range of the visit is entered prices for the stay with cost details itemized for review. Once the booking is submitted a success page is triggered.
 
 ### Success Page
 
