@@ -146,7 +146,7 @@ During my mid point review me and my mentor listed bugs that required fixing and
 My list is detailed below
 
 <div style="text-align:center">
-<img src="https://i.ibb.co/8b0BWZc/to-do-list.jpg" style"max-height:300px;">
+<img src="" style"max-height:300px;">
 </div>
 
 */
