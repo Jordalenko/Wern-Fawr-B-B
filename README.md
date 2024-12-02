@@ -1,6 +1,6 @@
 [Logo]
 
-[text "Explore what North Wales has to Offer from our lovely manor farm"]
+[text "Explore what North Wales has to Offer"]
 
 [image from front page]
 
