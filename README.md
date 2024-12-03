@@ -1,8 +1,6 @@
-[Logo]
+# Explore what North Wales has to Offer
 
-[text "Explore what North Wales has to Offer"]
-
-[image from front page]
+![Wern Fawr Manor house](./assets/images/readme/beach_poster_readme.webp)
 
 
 # Aim of the site
@@ -119,47 +117,10 @@ The footer contains contact details and social media links.
 * [GIT](https://git-scm.com/) - Version control
 * [GitHub](https://github.com/) - to  host the repository remotely and deploy the site via pages.
 
-/* * HTML & CSS programming languages
-* [Bootstrap](https://getbootstrap.com/) - For responsive sizing
-* [Google Fonts](https://fonts.google.com/) - aaa
-* [Font Awesome](https://fontawesome.com/) - Logos
-* [jQuery](https://jquery.com/) - Javascript needed for navbar.
-* [Popper.js](https://popper.js.org/) - Javascript needed for navbar.
-* [VSCode](https://code.visualstudio.com/) - IDE for local developement
-* [GIT](https://git-scm.com/) - Version Control
-* [GitHub](https://github.com/) - to host the repositories for this project and the live website preview
-
-*/
 ---
 
 ## Testing
 
-/* Testing was initial carried out using Chromes developer tools to ensure that the site scaled correctly on each screen size.
-
-I frequently used the below tools to help ensure no issues as i progressed through my build.
-
-- [W3C Markup Validation](https://validator.w3.org/) to validate HTML.
-
-- [W3C CSS validation](https://jigsaw.w3.org/css-validator/) to validate CSS
-
-- [Lighthouse Chrome](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) to audit best security practice and reduce loading times
-
-- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) to help locate overflow issues
-
-During my mid point review me and my mentor listed bugs that required fixing and features to add. On my mentors advice i produced a list of issues with expected time taken to fix on the following scale
-
-* 1 - Will take a couple of minutes to fix or implement
-* 3 - Will take approx 15 minutes to fix or implement
-* 5 - Will take approx 1 hour to fix or implement
-* 8 - Will take 4 - 8 hours (a working day) to fix or implement
-
-My list is detailed below
-
-<div style="text-align:center">
-<img src="" style"max-height:300px;">
-</div>
-
-*/
 
 ### Issues and resolutions
 
@@ -171,49 +132,9 @@ Resolved by sourcing new images from Trip Advisor and Google as well as the exis
 
 Resolved by creating a new logo with alpha channel.
 
-/* During build the following issues were raised
-
--Collapse Icon Not Showing On Mobile Devices.
-
-During my build the 'hamburger' icon failed to display when switching to mobile devices, this was resolved by adding the navbar-dark theme to the navbar class allowing me then to edit the perameters.
-
--Navbar not sticking to the top of the page as expected
-
-This was resolved by removing the nav bar from the container which allowed this to function as expected.
-
-- all text input on forms flagging as needing @ symbol
-
-in the form parameters each was set to "type=email" instead of being "type=text"
-
-- form allowing a blank form to be submitted 
-
-Added required to the input tags to ensure core information has to be inputted.
-
-- Nav menu scrolling to incorrect position
-
-When using the nav menu items scrolling was taking the user to the content of the section instead of the header, this was resolved by moving the section ID to the title of the page instead of the content containers
-
-- Nil links for social media icons opening new tab
-
-As social media pages are not available at the moment clicking the icons opened a new browser with no address when click, this was resolved by removing "target=_blank" from the link code
-
-- Fire & Acoustic Section text too cramped on tablets
-
-Reduced padding from the card tiles to allow the text to have more room to display making this easier to read.
 
 ### Known Issues
 
-/* Below are a list of problems that are known without resolution
-
-- Smooth Scrolling not functioning on Safari or IE:E
-
-This issue is unresolved as this is a browser issue not a site issue.
-
-- Title font contast on white backgrounds doesn't meet readability guidelines
-
-The issue has been raised with the client and a mid ground has been established as the client doesn't want to stray too far away from the logo colour.
-
-*/
 ---
 
 ## Deployment
@@ -224,43 +145,6 @@ In order to deploy the [repository](https://jordalenko.github.io/Wern-Fawr-B-B/)
 2. Scroll down to **pages**.
 3. Select the **main branch** in **Builds and Deployment** and save.
 4. The deployed page link can be found on the sidebar of **GitHub Pages**.
-
-
-/* To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/D0nni387/Luxury-Door-Solutions), the following steps were taken: 
-
-1. From the menu items near the top of the page, select **Settings**.
-2. Scroll down to the **GitHub Pages** section.
-3. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
-4. On selecting Master Branch the page is automatically refreshed, the website is now deployed. 
-5. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
- 
-
-### How to run this project locally
-
-To clone the site from GitHub perform the following steps.
-
-1. From the repository selct 'clone or download'.
-2. Copy the clone url for the repository.
-3. In your preferred IDE open Git Bash.
-4. Change the current working directory to the preferred location for the cloned directory.
-5. Type ```git clone```, paste the copied url ```console git clone https://github.com/Jordalenko/Wern-Fawr-B-B.git``` and select enter.
-6. Further details on how to clone a repository can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-
-/* To clone this project from GitHub:
-
-1. Under the repository name, click "Clone or download".
-2. In the Clone with HTTPs section, copy the clone URL for the repository. 
-3. In your local IDE open Git Bash.
-4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Type ```git clone```, and then paste the URL you copied in Step 3.
-```console
-git clone https://github.com/D0nni387/Luxury-Door-Solutions.git
-```
-6. Press Enter. Your local clone will be created.
-
-Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
-
-*/ 
 
 ---
 
@@ -288,14 +172,8 @@ Logo:
 
 Logo design by Rolf Wilkinson.
 
-/* All images provided by the client from their existing website & test shots taken on site.
-
-The initial paragraph of text was also reused from the existing site, all other text has been rewritten with the client. 
-
 ### Acknowledgements
 
 I would like to thank both my mentor, Spencer Barribal and the members of my study group, Robert Jonah Lewis, Steve Powell and Axe de Klerk for their invaluable support and feedback.
 
 I would also like to thank Rolf Wilkinson for his feedback throughout the process.
-
-/* Last of all i would like to thank my fellow students */
