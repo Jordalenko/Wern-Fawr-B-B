@@ -13,14 +13,17 @@ This site will introduce visitors to a beautiful 75 acre manor farm B&B in North
 
 Much of the existing client base come from repeat customers. But the site will better attract new business from the prospective clients who find the business through google or referals from, past customers, local businesses and the local community of retired people.
 
-The client hve offered the following guidance for the new site.
+The client have offered the following guidance for the new site.
 
-1. A simple design that responds to any screen size dynamically.
-2. A professional looking colour palette
-3. Something that will appeal to the wealthy clientele as well as the weekenders.
+1. A simple design that responds dynamically to any screen size.
+2. A professional looking colour palette.
+3. Site design that will appeal to the repeat clientele as well as the one-off weekenders.
 4. Feature that they are a dog friendly business.
-5. Streamline the booking process
+5. Streamline the booking process to one button on home page and buttons on each property's gallery.
 6. Show both the amenities on the property as well as those nearby.
+7. Revise the logo and place it over images on the homepage.
+8. De-clutter the nav bar header and footer.
+9. Source images from past customers via Trip Advisor and Google and reformat all the images for responsiveness.
 
 ---
 
@@ -35,9 +38,9 @@ The company is well established so their main goal is to update the site with mo
 
 To help modernize the site we will
 
-* Replace large sections that are primarily text walls with a balance of text and images.
-* Make the site easy to navigate
-* Reminds existing clients why they love both the farm and the area.
+* Replace text walls and associated inconsistent sized images with a balance of text and consistently sized responsive images.
+* Smooth site navigation to improve user experience.
+* Remind existing clients why they love both the farm and the area.
 
 ---
 
@@ -101,13 +104,20 @@ The footer contains contact details and social media links.
 
 ## Future Goals
 
+* The client would like the site to accept payments online.
+* The client would like the booking form to interact with scheduling database.
 * The client would like the booking page to display available dates and prices in the calendar below the date range selector.
-* The client would like to be able to receive payment online.
-* The client would like the site to update a database and notify them when certain conflicts arise.
+* The client would like to add drone video.
 
 ---
 
 ## Technology Used
+
+* [Bootstrap](https://getbootstrap.com/) - For responsive sizing.
+* [Font Awesome](https://fontawesome.com/) - For logos
+* [VSCode](https://code.visualstudio.com/) - Editor for local coding.
+* [GIT](https://git-scm.com/) - Version control
+* [GitHub](https://github.com/) - to  host the repository remotely and deploy the site via pages.
 
 /* * HTML & CSS programming languages
 * [Bootstrap](https://getbootstrap.com/) - For responsive sizing
@@ -152,6 +162,14 @@ My list is detailed below
 */
 
 ### Issues and resolutions
+
+- Images were mixed pixel aspects and file sizes were too big. Many images were too dark to communicate a pleasing representation of the property. File names did not conform to MVP requirement.
+
+Resolved by sourcing new images from Trip Advisor and Google as well as the existing site. Selected best images and renamed the files. Reformatted selected images to webp at a resolution that would not pixelate on the site.
+
+- Logo needed updating to conform to modern design styles. New logo needed to be formatted to overlay on images.
+
+Resolved by creating a new logo with alpha channel.
 
 /* During build the following issues were raised
 
