@@ -203,7 +203,7 @@ Reduced padding from the card tiles to allow the text to have more room to displ
 
 ### Known Issues
 
-Below are a list of problems that are known without resolution
+/* Below are a list of problems that are known without resolution
 
 - Smooth Scrolling not functioning on Safari or IE:E
 
@@ -218,6 +218,14 @@ The issue has been raised with the client and a mid ground has been established 
 
 ## Deployment
 
+In order to deploy the [repository](https://jordalenko.github.io/Wern-Fawr-B-B/) from GitHub Pages I performed the following steps.
+
+1. Select **settings** from the GitHub repository.
+2. Scroll down to **pages**.
+3. Select the **main branch** in **Builds and Deployment** and save.
+4. The deployed page link can be found on the sidebar of **GitHub Pages**.
+
+
 /* To deploy this page to GitHub Pages from its [GitHub repository](https://github.com/D0nni387/Luxury-Door-Solutions), the following steps were taken: 
 
 1. From the menu items near the top of the page, select **Settings**.
@@ -229,7 +237,16 @@ The issue has been raised with the client and a mid ground has been established 
 
 ### How to run this project locally
 
-To clone this project from GitHub:
+To clone the site from GitHub perform the following steps.
+
+1. From the repository selct 'clone or download'.
+2. Copy the clone url for the repository.
+3. In your preferred IDE open Git Bash.
+4. Change the current working directory to the preferred location for the cloned directory.
+5. Type ```git clone```, paste the copied url ```console git clone https://github.com/Jordalenko/Wern-Fawr-B-B.git``` and select enter.
+6. Further details on how to clone a repository can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+/* To clone this project from GitHub:
 
 1. Under the repository name, click "Clone or download".
 2. In the Clone with HTTPs section, copy the clone URL for the repository. 
@@ -249,7 +266,27 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ## Credits
 
+Logo:
+
+Logo design by Rolf Wilkinson.
+
+Photography:
+
+Photos with 'ja' in the name were taken by Jordan Acomba.
+Photos with 'ta' in the name were taken by various authors of Trip Advisor reviews.
+
 ### Content
+
+Image Sources:
+
+Images were primarily sourced from the existing site. If an image was not sourced from the existing site it will have a two letter code identifying the source.
+
+ja - Sourced from Jordan Acomba's photo library.
+ta - Sourced from Trip Advisor photos.
+
+Logo:
+
+Logo design by Rolf Wilkinson.
 
 /* All images provided by the client from their existing website & test shots taken on site.
 
@@ -257,4 +294,8 @@ The initial paragraph of text was also reused from the existing site, all other 
 
 ### Acknowledgements
 
-Last of all i would like to thank my fellow students */
+I would like to thank both my mentor, Spencer Barribal and the members of my study group, Robert Jonah Lewis, Steve Powell and Axe de Klerk for their invaluable support and feedback.
+
+I would also like to thank Rolf Wilkinson for his feedback throughout the process.
+
+/* Last of all i would like to thank my fellow students */
