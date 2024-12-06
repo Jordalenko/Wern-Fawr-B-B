@@ -15,7 +15,6 @@
 
 body {
     font-family: var(--primary-font);
-    background-color: #bdb0a4;
 }
 
 h1,
@@ -28,4 +27,8 @@ h3 {
 h1,
 h2 {
     text-transform: uppercase;
+}
+
+.section {
+    background-color: #bdb0a4;
 }
