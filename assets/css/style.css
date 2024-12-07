@@ -5,15 +5,30 @@
 :root {
     --primary-font: "Lexend", sans-serif;
     --secondary-font: "Indie Flower", cursive;
-    --primary-color: #4b3a35; /* arbutus */
-    --secondary-color: #bdb0a4; /* beige */
-    --highlight-color: #2d764c; /* forest */
-    --highlight-color-light: #a4b8cb; /* pale blue */
+    --primary-color: #100b2d; /* dark blues */
+    --secondary-color: #c69e78; /* beige */
+    --highlight-color: #c6aa6e; /* carmel */
+    --highlight-color-light: #d0dfed; /* pale blue */
 }
 
 /* Global styles */
 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hidden-heading {
+    display: none;
+}
+
+/* General styles */
+
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: var(--primary-font);
 }
 
@@ -29,10 +44,10 @@ h2 {
     text-transform: uppercase;
 }
 
-/* nav bar */
+/* Header */
 
 .logo {
-    max-width: 90px;
+    max-width: 130px;
 }
 
 .nav-link {
@@ -40,4 +55,47 @@ h2 {
     margin-top: 7px;
 }
 
-/* header */
+#book-btn {
+    margin-top: 13px;
+}
+
+/* navbar styles */
+
+
+/* nav toggle */
+
+
+/* main content */
+
+main {
+    margin-top: 20px;
+}
+
+/* hero section */
+
+.hero {
+    margin-top: 70px;
+    height: 600px;
+    background: url(../images/site_images/Farm/buildings/wern-fawr-manor-farm-ta-2.webp) no-repeat center center/cover;
+    width: 100%;
+    position: relative;
+}
+
+/* Media querie: tablets and larger (336px and up) */
+@media screen and (min-width: 336px) {
+
+}
+
+/* Media querie: tablets and larger (576px and up) */
+@media screen and (min-width: 576px) {
+
+}
+
+/* Media querie: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+}
+/* Media querie: laptops and larger (992px and up) */
+@media screen and (min-width: 992px) {
+
+}
