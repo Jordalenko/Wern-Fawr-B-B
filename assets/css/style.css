@@ -55,15 +55,26 @@ h2 {
     margin-top: 7px;
 }
 
-#book-btn {
-    margin-top: 13px;
-}
-
 /* navbar styles */
 
+.navbar-toggler-icon {
+    width: 50px;
+}
 
-/* nav toggle */
+#head-nav {
+    padding: 0px 8px;
+    margin: 0px;
+}
 
+#btn-nav {
+    border: 0;
+    margin: 6px;
+}
+
+#book-btn {
+    margin-top: 13px;
+    margin: 10px;
+}
 
 /* main content */
 
