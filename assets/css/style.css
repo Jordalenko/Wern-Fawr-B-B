@@ -33,3 +33,8 @@ h2 {
     background-color: #bdb0a4;
 }
 
+/* nav bar */
+
+.logo {
+    max-width: 90px;
+}
