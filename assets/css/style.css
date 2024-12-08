@@ -5,9 +5,9 @@
 :root {
     --primary-font: "Lexend", sans-serif;
     --secondary-font: "Indie Flower", cursive;
-    --primary-color: #100b2d; /* dark blues */
-    --secondary-color: #c69e78; /* beige */
-    --highlight-color: #c6aa6e; /* carmel */
+    --primary-color: #1d2d52; /* dark blues */
+    --secondary-color: #526acd; /* beige */
+    --highlight-color: #e4ce9f; /* carmel */
     --highlight-color-light: #d0dfed; /* pale blue */
 }
 
@@ -44,7 +44,13 @@ h2 {
     text-transform: uppercase;
 }
 
+.custom-btn {
+    background-color: var(--primary-color);
+    color: var(--highlight-color);
+}
+
 /* Header */
+
 
 .logo {
     max-width: 130px;
@@ -56,6 +62,10 @@ h2 {
 }
 
 /* navbar styles */
+
+nav {
+    box-shadow: 0 2px 2px var(--primary-color);
+}
 
 .navbar-toggler-icon {
     width: 50px;
@@ -76,10 +86,30 @@ h2 {
     margin: 10px;
 }
 
+.nav-link {
+    margin-left: 12px;
+    padding: 0;
+}
+
 /* main content */
 
 main {
     margin-top: 20px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 50vw;
+    object-fit: cover;
+}
+
+.card {
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-body > a {
+    margin-bottom: 0px;
 }
 
 /* hero section */
@@ -92,6 +122,30 @@ main {
     position: relative;
 }
 
+/* testimonial */
+
+#test-img {
+    border-radius: 60%;
+}
+
+/* footer */
+
+footer {
+    background-color: var(--highlight-color);
+    box-shadow: 0px -2px 0px var(--primary-color);
+    margin-bottom: 2px;
+}
+
+#socials {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+.custom-icon {
+    color: var(--secondary-color);
+}
+
 /* Media querie: tablets and larger (336px and up) */
 @media screen and (min-width: 336px) {
 
@@ -99,6 +153,8 @@ main {
 
 /* Media querie: tablets and larger (576px and up) */
 @media screen and (min-width: 576px) {
+
+    
 
 }
 
