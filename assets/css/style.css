@@ -176,3 +176,47 @@ footer {
         position: relative;
     }
 }
+
+/* Media querie: laptops and larger (1200px and up) */
+@media screen and (min-width: 1200px) {
+    .hero {
+        margin-top: 95px;
+        height: 500px;
+        background: url(../images/site_images/Farm/buildings/wern-fawr-manor-farm-ta-2.webp) no-repeat center center/cover;
+        width: 100%;
+        position: relative;
+    }
+}
+
+/* Media querie: laptops and larger (1600px and up) */
+@media screen and (min-width: 1600px) {
+    .hero {
+        margin-top: 95px;
+        height: 600px;
+        background: url(../images/site_images/Farm/buildings/wern-fawr-manor-farm-ta-2.webp) no-repeat center center/cover;
+        width: 100%;
+        position: relative;
+    }
+}
+
+/* Media querie: laptops and larger (1800px and up) */
+@media screen and (min-width: 1800px) {
+    .hero {
+        margin-top: 95px;
+        height: 700px;
+        background: url(../images/site_images/Farm/buildings/wern-fawr-manor-farm-ta-2.webp) no-repeat center center/cover;
+        width: 100%;
+        position: relative;
+    }
+}
+
+/* Media querie: laptops and larger (1920px and up) */
+@media screen and (min-width: 1920px) {
+    .hero {
+        margin-top: 95px;
+        height: 800px;
+        background: url(../images/site_images/Farm/buildings/wern-fawr-manor-farm-ta-2.webp) no-repeat center center/cover;
+        width: 100%;
+        position: relative;
+    }
+}
