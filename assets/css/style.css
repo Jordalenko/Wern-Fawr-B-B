@@ -117,7 +117,7 @@ main {
 .hero {
     margin-top: 70px;
     height: 600px;
-    background: url(../images/site_images/Farm/buildings/wern-fawr-manor-farm-ta-2.webp) no-repeat center center/cover;
+    background: url(../images/site_images/Farm/buildings/wern-fawr-manor-farm-ta-2.webp) no-repeat top center/cover;
     width: 100%;
     position: relative;
 }
@@ -154,7 +154,7 @@ footer {
 /* Media querie: tablets and larger (576px and up) */
 @media screen and (min-width: 576px) {
 
-    
+
 
 }
 
