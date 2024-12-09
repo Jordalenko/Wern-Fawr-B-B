@@ -128,16 +128,13 @@ main {
 .hero {
     margin-top: 70px;
     height: 600px;
-    background: url(../images/site_images/Farm/buildings/wern-fawr-hero-ta-2-250-big-title.webp) no-repeat center center/cover;
+    background: url(../images/site-images/farm/buildings/wern-fawr-hero-ta-2-250-big-title.webp) no-repeat center center/cover;
     width: 100%;
     position: relative;
 }
 
 /* testimonial */
 
-#test-img {
-    border-radius: 50%;
-}
 
 /* footer */
 
@@ -149,7 +146,7 @@ footer {
 #socials {
     margin-top: 0;
     margin-bottom: 10px;
-    font-size: 28px;
+    font-size: 48px;
 }
 
 .custom-icon {
@@ -164,13 +161,11 @@ footer {
     position: relative;
 }
 
-.carousel-item {
+.acc-carousel {
     background: no-repeat center/cover;
 }
 
-.justify {
-    
-}
+
 
 /* Media querie: tablets and larger (336px and up) */
 
@@ -178,7 +173,7 @@ footer {
     .hero {
         margin-top: 95px;
         height: 400px;
-        background: url(../images/site_images/Farm/buildings/wern-fawr-hero-ta-2-336-big-title.webp) no-repeat center center/cover;
+        background: url(../images/site-images/farm/buildings/wern-fawr-hero-ta-2-336-big-title.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
@@ -190,7 +185,7 @@ footer {
     .hero {
         margin-top: 95px;
         height: 500px;
-        background: url(../images/site_images/Farm/buildings/wern-fawr-hero-ta-2-576-big-title-v2.webp) no-repeat center center/cover;
+        background: url(../images/site-images/farm/buildings/wern-fawr-hero-ta-2-576-big-title-v2.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
@@ -232,7 +227,7 @@ footer {
     .hero {
         margin-top: 95px;
         height: 500px;
-        background: url(../images/site_images/Farm/buildings/wern-fawr-hero-ta-2-992-big-title-v2.webp) no-repeat center center/cover;
+        background: url(../images/site-images/farm/buildings/wern-fawr-hero-ta-2-992-big-title-v2.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
@@ -243,7 +238,7 @@ footer {
     .hero {
         margin-top: 95px;
         height: 500px;
-        background: url(../images/site_images/Farm/buildings/wern-fawr-hero-ta-2-992-big-title-v3.webp) no-repeat center center/cover;
+        background: url(../images/site-images/farm/buildings/wern-fawr-hero-ta-2-992-big-title-v3.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
