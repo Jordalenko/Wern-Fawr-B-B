@@ -170,6 +170,17 @@ footer {
 }
 /* Media querie: laptops and larger (992px and up) */
 @media screen and (min-width: 992px) {
+
+    .nav-link {
+        margin-top: 60px;
+        margin-left: 5px;
+        padding: 0px;
+    }
+
+    #book-btn {
+        margin-top: 50px;
+    }
+
     .card-img-top {
         width: 100%;
         height: 25vw;
