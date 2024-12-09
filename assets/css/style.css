@@ -35,7 +35,7 @@ body {
 h1,
 h2,
 h3 {
-    font-family: var(--secondary-font);
+    font-family: var(--primary-font);
     color: var(--primary-color);
 }
 
@@ -168,7 +168,7 @@ footer {
     background: no-repeat center/cover;
 }
 
-.cottages {
+.justify {
     
 }
 
