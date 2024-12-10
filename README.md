@@ -74,15 +74,15 @@ During the design process I drew up the following wireframes using Balsamiq.
 
 ## Features
 
-### About us
+### Hero Carousel
 
 A series of images showing the amenities available both on the property and nearby as well as a button to take visitors to a booking page.
 
-### Rental Properties
+### Accommodation
 
 A series of clickable cards containing a carousel of images and static text with a basic description of the property. Divided into two categories (Cottages & Rooms). Clicking the cards takes visitors to a new page with larger images of the selected property and a book now button.
 
-### Things To Do
+### Amenities
 
 A series of clickable cards containing a carousel of images and static text with a basic description of the amenities. Clicking the cards takes visitors to a new page with larger images of the selected amenity and a detailed description.
 
@@ -103,7 +103,7 @@ The footer contains contact details and social media links.
 ## Future Goals
 
 * The client would like the site to accept payments online.
-* The client would like the booking form to interact with scheduling database.
+* The client would like the booking form to interact with scheduling database with user input.
 * The client would like the booking page to display available dates and prices in the calendar below the date range selector.
 * The client would like to add drone video.
 
@@ -121,6 +121,17 @@ The footer contains contact details and social media links.
 
 ## Testing
 
+W3 Validation of html flagged a number of errors.
+
+- Duplicate tags and ID's were deleted.
+- Unclosed divs were closed.
+- Duplicate divs were deleted.
+- Unnecessary elements (p, strong) were deleted.
+- many unnecessary trailing slashes were deleted.
+
+W3 Validation of css flagged one error.
+
+- Too many values in .card-img-top for 'center/cover'. Deleted center value.
 
 ### Issues and resolutions
 
