@@ -106,8 +106,8 @@ nav {
 }
 
 .card-img-top {
-    height: 50%;
-    object-fit: center/cover;
+    height: 100%;
+    object-fit: cover;
 }
 
 .card {

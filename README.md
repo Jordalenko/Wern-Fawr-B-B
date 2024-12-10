@@ -130,7 +130,22 @@ Resolved by sourcing new images from Trip Advisor and Google as well as the exis
 
 - Logo needed updating to conform to modern design styles. New logo needed to be formatted to overlay on images.
 
-Resolved by creating a new logo with alpha channel.
+Resolved by creating a new logo with alpha channel using Pixelmator Pro.
+
+- CSS validator error:too many values. 
+
+.card-img-top {
+    height: 100%;
+    object-fit: center/cover;
+}
+
+resolved by removing center value.
+
+- single card row did not center correctly on Accommodation page.
+
+Resolved by searching W3 for proper syntax for offset.
+
+
 
 
 ### Known Issues
