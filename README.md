@@ -133,6 +133,10 @@ W3 Validation of css flagged one error.
 
 - Too many values in .card-img-top for 'center/cover'. Deleted center value.
 
+Lighthouse scored 73 on performance
+
+- Flagged image file sizes, contentful paint as main issues. NOT RESOLVED.
+
 ### Issues and resolutions
 
 - Images were mixed pixel aspects and file sizes were too big. Many images were too dark to communicate a pleasing representation of the property. File names did not conform to MVP requirement.
