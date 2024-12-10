@@ -226,6 +226,18 @@ footer {
     }
 }
 
+/* booking */
+
+#booking {
+    margin-top: 70px;
+}
+
+/* success */
+
+#success {
+    margin-top: 70px;
+}
+
 /* Media querie: laptops and larger (993px and up) */
 @media screen and (min-width: 993px) {
     .hero {
