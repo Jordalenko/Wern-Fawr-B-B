@@ -135,7 +135,9 @@ W3 Validation of css flagged one error.
 
 Lighthouse scored 73 on performance
 
-- Flagged image file sizes, contentful paint as main issues. NOT RESOLVED.
+- Flagged image file sizes, contentful paint as main issues. Resized all images to widest dimension of 600px.
+
+
 
 ### Issues and resolutions
 
