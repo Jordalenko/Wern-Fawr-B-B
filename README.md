@@ -1,6 +1,6 @@
 # Explore what North Wales has to Offer
 
-![Wern Fawr Manor house](./assets/images/site-images/nearby/beaches/beach-ja-2-x.webp)
+![Wern Fawr Manor house](./assets/images/site-images/nearby/beaches/beach-ja-2-600x.webp)
 
 
 # Aim of the site
