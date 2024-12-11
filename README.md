@@ -167,6 +167,11 @@ Resolved by searching W3 for proper syntax for offset.
 
 ### Known Issues
 
+- duplicate links to brochure for detail buttons on amenities cards and accommodation galleries to reduce scope.
+- booking form is not checking actual availability due to scope of that feature.
+- testimonial links navigate to google and trip advisor pages for the farm and not specific reviews.
+
+
 ---
 
 ## Deployment
