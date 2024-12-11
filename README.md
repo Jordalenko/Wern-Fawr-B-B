@@ -143,7 +143,7 @@ Lighthouse scored 73 on performance
 
 - Images were mixed pixel aspects and file sizes were too big. Many images were too dark to communicate a pleasing representation of the property. File names did not conform to MVP requirement.
 
-Resolved by sourcing new images from Trip Advisor and Google as well as the existing site. Selected best images and renamed the files. Reformatted selected images to webp at a resolution that would not pixelate on the site.
+Resolved by sourcing new images from Trip Advisor and Google as well as the existing site. Selected best images and renamed the files. Reformatted selected images to webp at a resolution that would not pixelate on the site. Then resized all images to a widest dimension of 600px.
 
 - Logo needed updating to conform to modern design styles. New logo needed to be formatted to overlay on images.
 
