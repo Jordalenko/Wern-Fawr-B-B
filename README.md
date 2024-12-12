@@ -17,10 +17,10 @@ The client have offered the following guidance for the new site.
 2. A professional looking colour palette.
 3. Site design that will appeal to the repeat clientele who know what they want as well as the one-off weekenders who may have never visited the area.
 4. Feature that they are a dog friendly business.
-5. Streamline the booking process to one button on home page and buttons on each property's gallery.
+5. Streamline the booking process to one button on nav bar and buttons on each property's gallery.
 6. Show both the amenities on the property as well as those nearby.
-7. Revise the logo and place it over images on the homepage.
-8. De-clutter the nav bar header and footer.
+7. Crop the logo, link to homepage, and place it on the nav bar.
+8. De-clutter the nav bar, header and footer.
 9. Source images from past customers via Trip Advisor and Google and reformat all the images for responsiveness.
 
 ---
@@ -31,14 +31,14 @@ The company is well established so their main goal is to update the site with mo
 
 1. Typical client is from the West Midlands, Scotland and Wales
 2. They may have friends in the local retirement community.
-3. Weekender's with dog(s).
-4. Visitors to the nearby Warren Spa
+3. Weekender's and dog owner(s).
+4. Visitors to the nearby town of Abersoch and the Warren Spa
 
 To help modernize the site we will
 
-* Replace text walls and associated inconsistent sized images with a balance of text and consistently sized responsive images.
+* Replace text walls and associated inconsistent quality and size images with a balance of text and consistently sized responsive images.
 * Smooth site navigation to improve user experience.
-* Remind existing clients why they love both the farm and the area.
+* Remind existing clients why they love both the farm and the area with pictures.
 
 ---
 
@@ -60,35 +60,45 @@ During the design process I drew up the following wireframes using Balsamiq.
 
 ## Phone Size
 
-![phone size wireframes](./assets/images/readme/phone_size.webp)
+![phone size wireframes](./assets/images/readme)
 
 ## Tablet Size
 
-![tablet size wireframes](./assets/images/readme/Tablet_.webp)
+![tablet size wireframes](./assets/images/readme)
 
 ## Desktop Size
 
-![desktop size wireframes](./assets/images/readme/Desktop_.webp)
+![desktop size wireframes](./assets/images/readme)
 
 ---
 
-## Features
+## Home Page Features
 
-### Hero Carousel
+### Hero Image with Text
 
-A series of images showing the amenities available both on the property and nearby as well as a button to take visitors to a booking page.
+A beautiful image showing the manor house with inviting attractively styled text message.
 
 ### Accommodation
 
-A series of clickable cards containing a carousel of images and static text with a basic description of the property. Divided into two categories (Cottages & Rooms). Clicking the cards takes visitors to a new page with larger images of the selected property and a book now button.
+Two clickable cards containing a hero image and descriptive text of the two types of accommodation on the property (Cottages & Rooms). Clicking the cards takes visitors to a new page with more/larger images of the selected property category and a view button.
 
 ### Amenities
 
-A series of clickable cards containing a carousel of images and static text with a basic description of the amenities. Clicking the cards takes visitors to a new page with larger images of the selected amenity and a detailed description.
+A series of clickable cards containing a hero image and a basic description of the amenities. Clicking the button takes visitors to a new page with a brochure.
+
+### Accommodation Page
+
+Header: A carousel of inviting images and a button for the brochure below it.
+
+Section 1: Cottages are detailed in cards with a button to a gallery for each cottage.
+
+Section 2: B&B rooms are detailed in cards with a button to a gallery for each room.
+
+Section 3: Cottages and rooms are detailed in carousels with a button to check availability for each property as well as a home button.
 
 ### Booking Form
 
-If navigated from the front page the property selector atop the form is set to default. If navigated from the book now button for a specific Cottage or room that selection is displayed. When the date range of the visit is entered prices for the stay with cost details itemized for review. Once the booking is submitted a success page is triggered.
+Navigated to from the nav bar or the property galleries. Visitors enter name, email and phone numbers to start. The date range of the visit is entered and accommodation option is selected. Visitors can enter a message. Once the booking is submitted a success page is triggered.
 
 ### Success Page
 
@@ -135,9 +145,9 @@ W3 Validation of css flagged one error.
 
 Lighthouse scored 73 on performance
 
-- Flagged image file sizes, contentful paint as main issues. Resized all images to widest dimension of 600px.
+- Flagged image file sizes, contentful paint as main issues. Resized all images to widest dimension of 600px. Fter reformatting and deleting unecessary images the performance score improved to 91.
 
-
+Wave flagged errors for no text on social media links (disregarded).
 
 ### Issues and resolutions
 
@@ -189,7 +199,7 @@ In order to deploy the [repository](https://jordalenko.github.io/Wern-Fawr-B-B/)
 
 Logo:
 
-Logo design by Rolf Wilkinson.
+Logo provided by owners and cropped with Pixelmator Pro software.
 
 Photography:
 
@@ -205,12 +215,6 @@ Images were primarily sourced from the existing site. If an image was not source
 ja - Sourced from Jordan Acomba's photo library.
 ta - Sourced from Trip Advisor photos.
 
-Logo:
-
-Logo design by Rolf Wilkinson.
-
 ### Acknowledgements
 
 I would like to thank both my mentor, Spencer Barribal and the members of my study group, Robert Jonah Lewis, Steve Powell and Axe de Klerk for their invaluable support and feedback.
-
-I would also like to thank Rolf Wilkinson for his feedback throughout the process.
