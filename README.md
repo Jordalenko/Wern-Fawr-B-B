@@ -60,15 +60,15 @@ During the design process I drew up the following wireframes using Balsamiq.
 
 ## Phone Size
 
-![phone size wireframes](./assets/images/readme)
+![phone size wireframes](./assets/images/site-images/readme/phone-size-1-wireframe.webp)
 
 ## Tablet Size
 
-![tablet size wireframes](./assets/images/readme)
+![tablet size wireframes](./assets/images/site-images/readme/tablet-1-wireframe.webp)
 
 ## Desktop Size
 
-![desktop size wireframes](./assets/images/readme)
+![desktop size wireframes](./assets/images/site-images/readme/desktop-wireframe.webp)
 
 ---
 
