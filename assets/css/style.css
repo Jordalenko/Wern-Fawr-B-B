@@ -160,6 +160,24 @@ footer {
     background: no-repeat center/cover;
 }
 
+/* booking */
+
+
+
+/* success */
+
+.success {
+    margin-top: 70px;
+    height: 600px;
+    background: url(../images/site-images/success/success-250-v4.webp) no-repeat center center/cover;
+    width: 100%;
+    position: relative;
+}
+
+#success {
+    width: 200px;
+}
+
 /* Media querie: tablets and larger (336px and up) */
 
 @media screen and (min-width: 336px) {
@@ -179,6 +197,14 @@ footer {
         margin-top: 95px;
         height: 500px;
         background: url(../images/site-images/farm/buildings/wf-hero-576-title-600x-v2.webp) no-repeat center center/cover;
+        width: 100%;
+        position: relative;
+    }
+
+    .success {
+        margin-top: 70px;
+        height: 600px;
+        background: url(../images/site-images/success/thankyou.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
