@@ -124,7 +124,7 @@ nav {
 .hero {
     margin-top: 70px;
     height: 600px;
-    background: url(../images/site-images/farm/buildings/wf-hero-250-title-600x-v2.webp) alt="hero image of manor house back garden" no-repeat center center/cover;
+    background: url(../images/site-images/farm/buildings/wf-hero-250-title-600x-v2.webp) no-repeat center center/cover;
     width: 100%;
     position: relative;
 }
@@ -169,7 +169,7 @@ footer {
 .success {
     margin-top: 70px;
     height: 600px;
-    background: url(../images/site-images/success/success-250-v4.webp) alt="thank you message" no-repeat center center/cover;
+    background: url(../images/site-images/success/success-250-v4.webp) no-repeat center center/cover;
     width: 100%;
     position: relative;
 }
@@ -184,7 +184,7 @@ footer {
     .hero {
         margin-top: 95px;
         height: 400px;
-        background: url(../images/site-images/farm/buildings/wf-hero-336-title-600x-v2.webp) alt="hero image of manor house back garden" no-repeat center center/cover;
+        background: url(../images/site-images/farm/buildings/wf-hero-336-title-600x-v2.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
@@ -196,7 +196,7 @@ footer {
     .hero {
         margin-top: 95px;
         height: 500px;
-        background: url(../images/site-images/farm/buildings/wf-hero-576-title-600x-v2.webp) alt="hero image of manor house back garden" no-repeat center center/cover;
+        background: url(../images/site-images/farm/buildings/wf-hero-576-title-600x-v2.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
@@ -204,7 +204,7 @@ footer {
     .success {
         margin-top: 70px;
         height: 600px;
-        background: url(../images/site-images/success/thankyou.webp) alt="thank you message" no-repeat center center/cover;
+        background: url(../images/site-images/success/thankyou.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
@@ -269,7 +269,7 @@ footer {
     .hero {
         margin-top: 95px;
         height: 500px;
-        background: url(../images/site-images/farm/buildings/wf-hero-992-title-600x-v2.webp) alt="hero image of manor house back garden" no-repeat center center/cover;
+        background: url(../images/site-images/farm/buildings/wf-hero-992-title-600x-v2.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
     }
