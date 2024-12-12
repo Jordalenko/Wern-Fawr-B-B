@@ -124,8 +124,9 @@
                 <div class="col-12 col-sm-8 offset-sm-2">
                   <label for="acc-type" class="form-label">Accommodation</label>
                   <select 
-                    class="form-select acc-type mb-2" 
-                    id="select-acc" 
+                    class="form-select mb-2"
+                    id="select-acc"
+                    name="acc-type"
                     required
                   >
                     <option value="" selected>Select</option>
@@ -139,23 +140,25 @@
                   </select>
                 </div>
                 <div class="col-12 col-sm-8 offset-sm-2">
-                  <div class="input-group input-daterange">
+                  <div class="input-group input-daterange col-sm-4"></div>
+                    <label class="form-label ms-1 me-2" for="start-date">Arrive</label>
                     <input 
-                      type="text" 
+                      type="date"
+                      id="start-date"
                       class="form-control" 
                       value="14-12-2024"
                       required
                     >
-                    <div class="input-group-addon ms-2 me-2">to</div>
+                  <div class="input-group input-daterange col-sm-4"></div>
+                      <label class="form-label ms-1 me-2" for="end-date">Depart</label>
                       <input 
-                        type="text" 
+                        type="date" 
+                        id="end-date"
                         class="form-control" 
                         value="29-12-2024" 
                         required
                       >
-                </div>
-                </div>
-                </div>
+                  </div>
                 <div class="col-12 col-sm-8 offset-sm-2">
                   <label for="message" class="form-label">Message</label>
                   <textarea
@@ -167,8 +170,7 @@
                     required
                   ></textarea>
                 </div>
-                <div class="col-12 col-sm-8 offset-sm-2 mb-2">
-                <div class="container text-center">
+                <div class="col-12 col-sm-8 offset-sm-2 mb-2 text-center">
                   <button type="submit" class="btn custom-btn mt-2">
                     Check Availability
                   </button>
