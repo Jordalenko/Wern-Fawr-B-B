@@ -197,6 +197,12 @@ In order to deploy the [repository](https://jordalenko.github.io/Wern-Fawr-B-B/)
 
 ## Credits
 
+Most of the site (nav bar, footer, carousels, cards and form) was sourced from bootstrap's website.
+
+The date picker was sourced from https://bootstrap-datepicker.readthedocs.io/en/latest/markup.html .
+
+I created the success page image with Pixelmator Pro software.
+
 Logo:
 
 Logo provided by owners and cropped with Pixelmator Pro software.
@@ -214,6 +220,8 @@ Images were primarily sourced from the existing site. If an image was not source
 
 ja - Sourced from Jordan Acomba's photo library.
 ta - Sourced from Trip Advisor photos.
+
+I created the logo and thank you image.
 
 ### Acknowledgements
 
