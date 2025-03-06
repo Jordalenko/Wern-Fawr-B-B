@@ -129,7 +129,7 @@ The footer contains contact details and social media links.
 
 ---
 
-## Testing
+## Validation
 
 W3 Validation of html flagged a number of errors.
 
@@ -149,7 +149,13 @@ Lighthouse scored 73 on performance
 
 Wave flagged errors for no text on social media links (disregarded).
 
+## Testing
+
+Redo
+
 ### Issues and resolutions
+
+Develop more
 
 - Images were mixed pixel aspects and file sizes were too big. Many images were too dark to communicate a pleasing representation of the property. File names did not conform to MVP requirement.
 
