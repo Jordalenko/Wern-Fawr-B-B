@@ -42,7 +42,7 @@ To help modernize the site we will
 
 ---
 
-## Client Stories
+## User Stories
 
 "As a visitor to the site I want to see a visual representation of what I love about the property and area."
 
@@ -60,15 +60,15 @@ During the design process I drew up the following wireframes using Balsamiq.
 
 ## Phone Size
 
-![phone size wireframes](./assets/images/site-images/readme/phone-size-1-wireframe-v2.webp)
+![phone size wireframes](./assets/images/site-images/readme/phone-size-1-wireframe-v3.webp)
 
 ## Tablet Size
 
-![tablet size wireframes](./assets/images/site-images/readme/tablet-1-wireframe-v2.webp)
+![tablet size wireframes](./assets/images/site-images/readme/tablet-1-wireframe-v3.webp)
 
 ## Desktop Size
 
-![desktop size wireframes](./assets/images/site-images/readme/desktop-wireframe-v2.webp)
+![desktop size wireframes](./assets/images/site-images/readme/desktop-wireframe-v3.webp)
 
 ---
 
