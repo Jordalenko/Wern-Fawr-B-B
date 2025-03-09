@@ -1,31 +1,22 @@
 # Explore what North Wales has to Offer
 
-![Wern Fawr Manor house](./assets/images/site-images/nearby/beaches/beach-ja-2-600x.webp)
+![Wern Fawr Manor house](./assets/images/site-images/farm/buildings/wf-hero-sm-title-x-250306.webp)
 
+### [View Live Site Here](https://jordalenko.github.io/Wern-Fawr-B-B/)
 
 # Aim of the site
 
----
+This site's 5 pages will introduce visitors to a beautiful 75 acre manor farm B&B in North Wales. The site presents the attractive rental options and nearby amenities in an easily navigable layout. It employs responsive front-end design using Bootstrap and custom CSS and HTML and modern layout techniques.
 
-This site will introduce visitors to a beautiful 75 acre manor farm B&B in North Wales. The client has requested an update of their 25 year-old site to cater to modern user preferences. This site will display the attractive rental options at the farm, as well as the ameneties on and near the property. It will employ responsive front-end design with Bootstrap and custom CSS and HTML and modern layout techniques. The site will simplify the booking process, flow from a button below the hero image atop the home page. Alternatively visitors can click links to specific properties from the accommodations section and click a booking button below the carousel images for individual properties.
+## Responsive
 
-Much of the existing client base come from repeat customers. But the site will better attract new business from prospective clients who find the business through google or referals from past customers, local businesses, and the local community.
+![amiresponsive](./assets/images/site-images/readme/wf-resub-responsive.webp)
 
-The client have offered the following guidance for the new site.
+## User Experience (UX):
 
-1. A simple design that responds dynamically to any screen size.
-2. A professional looking colour palette.
-3. Site design that will appeal to the repeat clientele who know what they want as well as the one-off weekenders who may have never visited the area.
-4. Feature that they are a dog friendly business.
-5. Streamline the booking process to one button on nav bar and buttons on each property's gallery.
-6. Show both the amenities on the property as well as those nearby.
-7. Crop the logo, link to homepage, and place it on the nav bar.
-8. De-clutter the nav bar, header and footer.
-9. Source images from past customers via Trip Advisor and Google and reformat all the images for responsiveness.
+### User Stories
 
----
-
-## UX:
+#### About The Company
 
 The company is well established so their main goal is to update the site with modern website design to better meet the modern user's methods to view the site across many different screen sizes. However new customers typically fall within the following categories:
 
@@ -34,25 +25,23 @@ The company is well established so their main goal is to update the site with mo
 3. Weekender's and dog owner(s).
 4. Visitors to the nearby town of Abersoch and the Warren Spa
 
-To help modernize the site we will
+#### Client Stories
 
-* Replace text walls and associated inconsistent quality and size images with a balance of text and consistently sized responsive images.
-* Smooth site navigation to improve user experience.
-* Remind existing clients why they love both the farm and the area with pictures.
+- "As a returning visitor to the site I want to see a visual representation of what I love about the property and area."
 
----
+- "As a new visitor to the site I want to ensure I feel confident that I will be satisfied with my stay."
 
-## User Stories
+- "As a visitor to the site I want a navigable site layout."
 
-"As a visitor to the site I want to see a visual representation of what I love about the property and area."
+- "As a vistor the site needs to confirm my booking has been processed."
 
-"As a visitor to the site I want to ensure I feel confident that I will be satisfied with my stay."
+### Features
 
-"As a visitor to the site I want to be able to easily find available dates to book."
+Header
 
-"As a vistor The site needs to confirm my booking has been processed."
-
----
+   * The Header is featured at the top of the page.
+   * Shows the logo ”Wern Fawr” in company colours in the left corner.
+   * The right part contains the navigation.
 
 ## Wireframe Mockups
 
