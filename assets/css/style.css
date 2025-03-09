@@ -195,7 +195,7 @@ footer {
 @media screen and (min-width: 576px) {
     .hero {
         margin-top: 95px;
-        height: 500px;
+        height: 550px;
         background: url(../images/site-images/farm/buildings/wf-hero-sm-title-x-250306.webp) no-repeat center center/cover;
         width: 100%;
         position: relative;
@@ -225,8 +225,16 @@ footer {
 @media screen and (min-width: 768px) {
     
 }
+
 /* Media querie: laptops and larger (992px and up) */
 @media screen and (min-width: 992px) {
+
+    .hero {
+        margin-top: 95px;
+        height: 700px;
+        width: 100%;
+        position: relative;
+    }
 
     .nav-link {
         margin-top: 60px;
@@ -243,13 +251,6 @@ footer {
         height: 25vw;
         object-fit: cover;
     }
-
-    .hero {
-        margin-top: 95px;
-        height: 500px;
-        width: 100%;
-        position: relative;
-    }
 }
 
 /* booking */
@@ -264,39 +265,21 @@ footer {
     margin-top: 70px;
 }
 
-/* Media querie: laptops and larger (993px and up) */
-@media screen and (min-width: 993px) {
-    .hero {
-        margin-top: 95px;
-        height: 500px;
-        background: url(../images/site-images/farm/buildings/wf-hero-sm-title-x-250306.webp) no-repeat center center/cover;
-        width: 100%;
-        position: relative;
-    }
-
-}
-
-/* Media querie: laptops and larger (1600px and up) */
-@media screen and (min-width: 1600px) {
-    .hero {
-        margin-top: 95px;
-        height: 600px;
-        width: 100%;
-        position: relative;
-    }
-
-    .card-img-top {
-        width: 100%;
-        height: 17vw;
-        object-fit: cover;
-    }
-}
-
-/* Media querie: laptops and larger (1800px and up) */
-@media screen and (min-width: 1800px) {
+/* Media querie: laptops and larger (1200px and up) */
+@media screen and (min-width: 1200px) {
     .hero {
         margin-top: 95px;
         height: 700px;
+        width: 100%;
+        position: relative;
+    }
+}
+
+/* Media querie: laptops and larger (1400px and up) */
+@media screen and (min-width: 1400px) {
+    .hero {
+        margin-top: 95px;
+        height: 750px;
         width: 100%;
         position: relative;
     }
