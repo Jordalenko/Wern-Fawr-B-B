@@ -39,61 +39,85 @@ The company is well established so their main goal is to update the site with mo
 
 #### Main Page
 
+* This page is first presented as the user visits the site beginning with the header and hero image which includes a welcome message/call to action.
+* Following the hero image is the Accommodation section with buttons linking to those sections in the Accommodtions page.
+* Following the accommodations section is the amenities section with pictures and buttons linking to the nearby amenities.
+* Following the amenities section is the testimonials section with pictures and buttons linking to the user stories.
+* The footer ends the main page. This is where the contact info and associated links exist.
+
 Header
 
-   * The Header is featured at the top of the page.
-   * Shows the logo ”Wern Fawr” in company colours in the left corner.
-   * The right part contains the navigation.
+* The Header is featured at the top of the page.
+* Shows the logo ”Wern Fawr” in company colours in the left corner.
+* The right part contains the navigation.
+
+Navigation
+
+* The navigation is positioned on the right-hand side of the header area.
+* When on smaller devices the navigation links collapse into a hamburger menu.
+* One button included: Jump to the booking form.
 
 ![Header](./assets/images/site-images/readme/wf-resub-header.webp)
 
-Hero Image with Call To Action Statement
-
 ![Hero](./assets/images/site-images/readme/wf-resub-hero.webp)
 
-Accommodation Section
+Accommodations
 
-![Header](./assets/images/site-images/readme/wf-resub-acc.webp)
+* Two clickable cards containing a hero image and descriptive text of the two types of accommodation on the property (Cottages & Rooms). Clicking the cards takes visitors to a new page with more/larger images of the selected property category and a view button.
 
-Amenities Section
+![Accommodations](./assets/images/site-images/readme/wf-resub-acc.webp)
 
-![Header](./assets/images/site-images/readme/wf-resub-amen.webp)
+Amenities
 
-Testimonials Section
+* A series of clickable cards containing a hero image and a basic description of the amenities. Clicking the button takes visitors to a new page with a brochure.
 
-![Header](./assets/images/site-images/readme/wf-resub-test.webp)
+![Amenities](./assets/images/site-images/readme/wf-resub-amen.webp)
 
-Footer/Contact Section
+Testimonials
 
-![Header](./assets/images/site-images/readme/wf-resub-footer.webp)
+* A series of clickable cards containing a hero image and a basic description of the testimonials. Clicking the button takes visitors to a new page with a review of the property.
 
-#### Accommodations Page
+![Testimonials](./assets/images/site-images/readme/wf-resub-test.webp)
 
-Accommodation Page Hero Carousel
+![Footer](./assets/images/site-images/readme/wf-resub-footer.webp)
 
-![Header](./assets/images/site-images/readme/wf-resub-acc-hero.webp)
+### Accommodations Page
 
-Cottages Section
+* This page begins with a carousel of hero images below the header, repeated from the main page.
+* Following the hero carousel section is the cottages section with pictures and buttons linking to the cards for each cottage.
+* Following the cottages section is the rooms section with pictures and buttons linking to the cards for each room.
+* Following the rooms section are the cards with pictures of each room or cottage and buttons linking to the booking form, a details pdf and home.
+* A repeat of the footer ends the accommodations page. This is where the contact info and associated links exist.
 
-![Header](./assets/images/site-images/readme/wf-resub-acc-cott.webp)
+![Accommodation Hero](./assets/images/site-images/readme/wf-resub-acc-hero.webp)
 
-Rooms Section
+![Cottages](./assets/images/site-images/readme/wf-resub-acc-cott.webp)
 
-![Header](./assets/images/site-images/readme/wf-resub-acc-rooms.webp)
+![Rooms](./assets/images/site-images/readme/wf-resub-acc-rooms.webp)
 
 #### Booking Page
 
+* This page begins with the header, repeated from the main page.
+* Following the header is the booking form.
+* A repeat of the footer ends the booking page. This is where the contact info and associated links exist.
+
 Booking Form
 
-![Header](./assets/images/site-images/readme/wf-resub-book.webp)
+Navigated to from the nav bar or the property galleries. Visitors enter name, email and phone numbers to start. The date range of the visit is entered and accommodation option is selected. Visitors can enter a message. Once the booking is submitted a success page is triggered.
+
+![Booking Page](./assets/images/site-images/readme/wf-resub-book.webp)
 
 #### Success Page
 
-Successful Booking Message
+* This page begins with the header, repeated from the main page.
+* Following the header is the success message with a button to return home.
+* A repeat of the footer ends the success page. This is where the contact info and associated links exist.
 
-![Header](./assets/images/site-images/readme/wf-resub-acc-cott.webp)
+Success Message
 
+* Once a booking is submitted it triggers a success message page. The success page thanks the visitor and offers a button to return to the home page.
 
+![Success Page](./assets/images/site-images/readme/wf-resub-success.png)
 
 ## Wireframe Mockups
 
@@ -111,64 +135,28 @@ During the design process I drew up the following wireframes using Balsamiq.
 
 ![desktop size wireframes](./assets/images/site-images/readme/desktop-wireframe-v3.webp)
 
----
-
-## Home Page Features
-
-### Hero Image with Text
-
-A beautiful image showing the manor house with inviting attractively styled text message.
-
-### Accommodation
-
-Two clickable cards containing a hero image and descriptive text of the two types of accommodation on the property (Cottages & Rooms). Clicking the cards takes visitors to a new page with more/larger images of the selected property category and a view button.
-
-### Amenities
-
-A series of clickable cards containing a hero image and a basic description of the amenities. Clicking the button takes visitors to a new page with a brochure.
-
-### Accommodation Page
-
-Header: A carousel of inviting images and a button for the brochure below it.
-
-Section 1: Cottages are detailed in cards with a button to a gallery for each cottage.
-
-Section 2: B&B rooms are detailed in cards with a button to a gallery for each room.
-
-Section 3: Cottages and rooms are detailed in carousels with a button to check availability for each property as well as a home button.
-
-### Booking Form
-
-Navigated to from the nav bar or the property galleries. Visitors enter name, email and phone numbers to start. The date range of the visit is entered and accommodation option is selected. Visitors can enter a message. Once the booking is submitted a success page is triggered.
-
-### Success Page
-
-Once a booking is submitted it triggers a success message page. The success page thanks the visitor and offers a button to return to the home page.
-
-### Contact Us
-
-The footer contains contact details and social media links.
-
----
-
-## Future Goals
+## Features Left to Implement
 
 * The client would like the site to accept payments online.
-* The client would like the booking form to interact with scheduling database with user input.
+* The client would like the booking form to interact with a scheduling database based on user input.
 * The client would like the booking page to display available dates and prices in the calendar below the date range selector.
-* The client would like to add drone video.
+* The client would like to add drone video and hi-res photographs of the property and accommodations.
 
----
+## Design
+
+Colours
+
+* I have used a mixture of dark blue #1d2d52 and carmel #e4ce9f as the main colour theme for this site.
+* All page sections have a background colour of white to make the text stand out and easy to read.
 
 ## Technology Used
 
 * [Bootstrap](https://getbootstrap.com/) - For responsive sizing.
+* Google Fonts: To import font family ’Lexend’ into the style.css file which is used primarily in the website. Added fallback font sans-serif. A secondary font family ’Indie Flower’ is used occasionally.
 * [Font Awesome](https://fontawesome.com/) - For logos
 * [VSCode](https://code.visualstudio.com/) - Editor for local coding.
 * [GIT](https://git-scm.com/) - Version control
 * [GitHub](https://github.com/) - to  host the repository remotely and deploy the site via pages.
-
----
 
 ## Validation
 
@@ -184,9 +172,11 @@ W3 Validation of css flagged one error.
 
 - Too many values in .card-img-top for 'center/cover'. Deleted center value.
 
-Lighthouse scored 73 on performance
+![css validation](./assets/images/site-images/readme/wf-resub-lw3-css-validator.webp)
 
-- Flagged image file sizes, contentful paint as main issues. Resized all images to widest dimension of 600px. Fter reformatting and deleting unecessary images the performance score improved to 91.
+Lighthouse scored 97 on performance
+
+![lighthouse score](./assets/images/site-images/readme/wf-resub-lighthouse.webp)
 
 Wave flagged errors for no text on social media links (disregarded).
 
@@ -219,18 +209,12 @@ resolved by removing center value.
 
 Resolved by searching W3 for proper syntax for offset.
 
-
-
-
 ### Known Issues
 
 - Some images in the Cottages and Rooms carousels were somewhat pixellated. I had to work with these placeholders as they are all I could gather from the existing site. Consider them placeholders with a recommendation to client to revise.
 - duplicate links to brochure for detail buttons on amenities cards and accommodation galleries to reduce scope.
 - booking form is not checking actual availability due to scope of that feature.
 - testimonial links navigate to google and trip advisor pages for the farm and not specific reviews.
-
-
----
 
 ## Deployment
 
@@ -273,4 +257,4 @@ I created the logo and thank you image.
 
 ### Acknowledgements
 
-I would like to thank both my mentor, Spencer Barribal and the members of my study group, Robert Jonah Lewis, Steve Powell and Axe de Klerk for their invaluable support and feedback.
+I would like to thank both my mentor, Spencer Barribal and the members of my study group, Robert Jonah Lewis, Steve Powell and Ax de Klerk for their invaluable support and feedback.
