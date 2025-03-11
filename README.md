@@ -158,7 +158,20 @@ Colours
 * [GIT](https://git-scm.com/) - Version control
 * [GitHub](https://github.com/) - to  host the repository remotely and deploy the site via pages.
 
-## Validation
+### Testing
+
+#### Browser testing
+
+* I have tested that this page works using macOS (Macbook Pro) and Windows (Dell Laptop).
+* I have tested that this page works in the following browsers using macOS: Chrome, Safari and Firefox and Windows: Chrome. 
+* I have tested this page works on iOS devices using Safari browser (iPhone 14).
+
+#### Responsivness
+
+* Chrome developer tool have been used to check the responsivness.
+* I have tested that this page works on different screen sizes from iPhone 5 (240px wide) and very large screens (5120 x 2880 px).
+
+#### Validator Testing
 
 W3 Validation of html flagged a number of errors.
 
@@ -168,7 +181,7 @@ W3 Validation of html flagged a number of errors.
 - Unnecessary elements (p, strong) were deleted.
 - many unnecessary trailing slashes were deleted.
 
-W3 Validation of css flagged one error.
+W3 Validation of css flagged no errors.
 
 - Too many values in .card-img-top for 'center/cover'. Deleted center value.
 
@@ -180,9 +193,19 @@ Lighthouse scored 97 on performance
 
 Wave flagged errors for no text on social media links (disregarded).
 
-## Testing
+#### Functionality
 
-Redo
+
+
+Further Testing
+
+* I have tested that the hover effect on all buttons and links works as expected.
+* I have tested that all carousels work correctly.
+* I have tested that all Font Awesome icons are displayed correctly.
+
+Solved bugs
+
+* I am not aware of any bugs
 
 ### Issues and resolutions
 
@@ -224,8 +247,6 @@ In order to deploy the [repository](https://jordalenko.github.io/Wern-Fawr-B-B/)
 2. Scroll down to **pages**.
 3. Select the **main branch** in **Builds and Deployment** and save.
 4. The deployed page link can be found on the sidebar of **GitHub Pages**.
-
----
 
 ## Credits
 
