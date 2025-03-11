@@ -37,11 +37,63 @@ The company is well established so their main goal is to update the site with mo
 
 ### Features
 
+#### Main Page
+
 Header
 
    * The Header is featured at the top of the page.
    * Shows the logo ”Wern Fawr” in company colours in the left corner.
    * The right part contains the navigation.
+
+![Header](./assets/images/site-images/readme/wf-resub-header.webp)
+
+Hero Image with Call To Action Statement
+
+![Hero](./assets/images/site-images/readme/wf-resub-hero.webp)
+
+Accommodation Section
+
+![Header](./assets/images/site-images/readme/wf-resub-acc.webp)
+
+Amenities Section
+
+![Header](./assets/images/site-images/readme/wf-resub-amen.webp)
+
+Testimonials Section
+
+![Header](./assets/images/site-images/readme/wf-resub-test.webp)
+
+Footer/Contact Section
+
+![Header](./assets/images/site-images/readme/wf-resub-footer.webp)
+
+#### Accommodations Page
+
+Accommodation Page Hero Carousel
+
+![Header](./assets/images/site-images/readme/wf-resub-acc-hero.webp)
+
+Cottages Section
+
+![Header](./assets/images/site-images/readme/wf-resub-acc-cott.webp)
+
+Rooms Section
+
+![Header](./assets/images/site-images/readme/wf-resub-acc-rooms.webp)
+
+#### Booking Page
+
+Booking Form
+
+![Header](./assets/images/site-images/readme/wf-resub-book.webp)
+
+#### Success Page
+
+Successful Booking Message
+
+![Header](./assets/images/site-images/readme/wf-resub-acc-cott.webp)
+
+
 
 ## Wireframe Mockups
 
@@ -172,6 +224,7 @@ Resolved by searching W3 for proper syntax for offset.
 
 ### Known Issues
 
+- Some images in the Cottages and Rooms carousels were somewhat pixellated. I had to work with these placeholders as they are all I could gather from the existing site. Consider them placeholders with a recommendation to client to revise.
 - duplicate links to brochure for detail buttons on amenities cards and accommodation galleries to reduce scope.
 - booking form is not checking actual availability due to scope of that feature.
 - testimonial links navigate to google and trip advisor pages for the farm and not specific reviews.
