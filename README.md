@@ -141,6 +141,8 @@ During the design process I drew up the following wireframes using Balsamiq.
 * The client would like the booking form to interact with a scheduling database based on user input.
 * The client would like the booking page to display available dates and prices in the calendar below the date range selector.
 * The client would like to add drone video and hi-res photographs of the property and accommodations.
+* Specific links to pictured amenities will replace the brochure pdf.
+* Specific links to actual testimonials pictured will replace navigating to a general google review or trip advisor page.
 
 ## Design
 
