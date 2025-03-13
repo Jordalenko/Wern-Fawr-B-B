@@ -143,6 +143,7 @@ During the design process I drew up the following wireframes using Balsamiq.
 * The client would like to add drone video and hi-res photographs of the property and accommodations.
 * Specific links to pictured amenities will replace the brochure pdf.
 * Specific links to actual testimonials pictured will replace navigating to a general google review or trip advisor page.
+* The booking form is not checking availability. In future it will give immediate feedback based on checking a database.
 
 ## Design
 
