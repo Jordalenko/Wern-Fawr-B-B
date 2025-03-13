@@ -198,7 +198,8 @@ Wave flagged errors for no text on social media links (disregarded).
 
 #### Functionality
 
-
+![functionality testing](./assets/images/site-images/readme/wf-functionality-1.png)
+![functionality testing](./assets/images/site-images/readme/wf-functionality-2.png)
 
 Further Testing
 
